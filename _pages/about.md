@@ -28,7 +28,8 @@ I am always excited to explore collaboration opportunities, participate in revie
 
 ### recent news
 - Excited to travel to MLCB 2023 to present our work [GenePT](https://www.biorxiv.org/content/10.1101/2023.10.16.562533v1) and to moderate the industry discussion panel!
-- Our [work](https://yiqunchen.github.io/TWIGMA/) ([arViv link](https://arxiv.org/abs/2306.08310)) looking at AI-generative art has been accepted to NeurIPS 2023.
+- TWIGMA, our [work](https://yiqunchen.github.io/TWIGMA/) ([preprint](https://arxiv.org/abs/2306.08310)) looking at AI-generative art, has been accepted to NeurIPS 2023.
+- I proposed a test for a difference in means for a single feature after clustering ([preprint](https://arxiv.org/abs/2311.16375) and [software](https://yiqunchen.github.io/CADET/)). 
 
 ### 🎉 celebrate every (small) win
 I have been fortunate to have received several awards and honors, including the Cornell Young Researchers Workshop in 2023, the Rising Stars in Data Science in 2022, the Best Paper Honorable Mention at CHI 2023, the Thomas R. Fleming Excellence in Biostatistics Award, the Student Research Paper Award at NESS 2022, the Best Award at WNAR 2021, the Young Investigator Award at CROI 2020, and the Outstanding Teaching Assistant Award from the School of Public Health at the University of Washington.

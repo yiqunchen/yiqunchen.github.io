@@ -30,11 +30,11 @@ In my PhD research, I tackled the problem of testing *data-driven hypotheses gen
 
 #### Selected Manuscripts:
 
-- Clustering And Differential Expression Testing: **Chen YT**, Gao LL (2023+). Testing for a difference in means of a single feature after clustering. arXiv link. 
+- Clustering And Differential Expression Testing: **Chen YT**, Gao LL (2023+). Testing for a difference in means of a single feature after clustering. arXiv link: [https://arxiv.org/abs/2311.16375](https://arxiv.org/abs/2311.16375).
 
 - Inference after **k-means clustering**: **Chen YT**, Witten DM (2023). Selective inference for k-means clustering. *Journal of Machine learning Research*. arXiv link: [https://arxiv.org/abs/2203.15267](https://arxiv.org/abs/2203.15267).
 
-- Inference after **graph fused lasso**: **Chen YT**, Jewell SW, and Witten DM (2023). *Journal of Computational and Graphical Statistics*. arXiv link: https://arxiv.org/abs/2109.10451.
+- Inference after **graph fused lasso**: **Chen YT**, Jewell SW, and Witten DM (2023). *Journal of Computational and Graphical Statistics*. arXiv link: [https://arxiv.org/abs/2109.10451](https://arxiv.org/abs/2109.10451]).
 
 - Inference after **spike detection**: **Chen YT**, Jewell SW, Witten DM. (2022) [Quantifying uncertainty in spikes estimated from calcium imaging data](https://doi.org/10.1093/biostatistics/kxab034), *Biostatistics*, Oxford University Press.
 
