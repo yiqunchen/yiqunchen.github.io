@@ -28,7 +28,7 @@ I am always excited to explore collaboration opportunities, participate in revie
 
 ### recent news
 - Excited to travel to MLCB 2023 to present our work [GenePT](https://www.biorxiv.org/content/10.1101/2023.10.16.562533v1) and to moderate the industry discussion panel!
-- TWIGMA, our [work](https://yiqunchen.github.io/TWIGMA/) ([preprint](https://arxiv.org/abs/2306.08310)) looking at AI-generative art, has been accepted to NeurIPS 2023.
+- TWIGMA, our [work](https://yiqunchen.github.io/TWIGMA/) ([preprint](https://arxiv.org/abs/2306.08310)) looking at AI-generative art, has been accepted to NeurIPS 2023; see our poster [here](./assets/pdf/example_pdf.pdf).
 - I proposed a test for a difference in means for a single feature after clustering ([preprint](https://arxiv.org/abs/2311.16375) and [software](https://yiqunchen.github.io/CADET/)). 
 
 ### 🎉 celebrate every (small) win
