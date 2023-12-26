@@ -2,7 +2,7 @@
 layout: page
 title: research
 permalink: /research/
-subtitle: Statistical Rigor for Data Science
+subtitle: Statistical Insight for Data Science
 nav: true
 nav_order: 2
 display_categories: [work, fun]
